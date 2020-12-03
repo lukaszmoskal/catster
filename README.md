@@ -33,5 +33,7 @@ To run Catster locally on your machine you need [Node.js](https://nodejs.org) in
 ## Acknowledgments
 
 Cat logo by [Vecteezy](https://www.vecteezy.com/free-png/cat)
+
 Cat photo by [Anna Shvets](https://www.pexels.com/photo/brown-tabby-cat-wearing-shower-cap-4587959/)
+
 Favicon by [Icons8](https://www.iconarchive.com/artist/icons8.html)
