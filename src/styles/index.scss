@@ -1,0 +1,60 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  background-color: #d4e9fa;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+  min-height: 100vh;
+}
+
+div#root {
+  min-height: 100%;
+  position: relative;
+}
+
+.button:focus:not(:active),
+.button.is-focused:not(:active) {
+  box-shadow: none;
+}
+
+.text-overflow {
+  flex: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.MuiGrid-spacing-xs-4 {
+  width: 100% !important;
+}
+
+.container {
+  display: block;
+  margin: auto;
+  max-width: 1600px;
+  width: 100%;
+}
+
+.section {
+  margin: auto;
+  min-height: 100%;
+  padding-top: 100px;
+  padding-bottom: 150px;
+  text-align: center;
+  width: 100%;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
