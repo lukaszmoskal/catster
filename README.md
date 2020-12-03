@@ -12,6 +12,10 @@ I've created this little app in a process of learning ReactJS. It was fun.
 - Read interesting facts about cats (if available in the API)
 - Save favourite pictures in the local database of your browser
 
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/68230258/101043770-f3f4f300-357e-11eb-86b3-ac8aa826b73c.jpg)
+
 ## Demo
 
 You can try Catster here: [catster.netlify.app](https://catster.netlify.app)
