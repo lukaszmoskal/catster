@@ -28,7 +28,7 @@ You can try Catster here: [catster.netlify.app](https://catster.netlify.app)
 
 ## Setup
 
-To run Catster locally on your machine you need [Node.js](https://nodejs.org) installed.
+To run Catster locally on your machine you need [Node.js](https://nodejs.org) v14.15.1 installed.
 
 - clone this repo and install dependencies `$ npm install`
 - `$ npm start` to run Catster at localhost:3000
